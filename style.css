@@ -1,42 +1,42 @@
 p{
 font-family: Franklin Gothic Book;
-  color: lightblue;
-  font-size: 26;
+  font-color: lightblue;
+  font-size: 26px;
 }
 
   ul{
 font-famliy: Amasis MT Pro;
-  color: blue;
-  font-size: 20;
+  font-color: blue;
+  font-size: 20px;
 }
 
     ol{
     font-famliy: Amasis MT Pro;
-  color: blue;
-  font-size: 20;
+  font-color: blue;
+  font-size: 20px;
     }
 
     h1{
-    font-family: ;
-      font-size: ;
+    font-family: Franklin Gothic Book;
+      font-size: 30px;
     font-weight: bold;
+      font-color: light purple;
     }
 
 header{
-  font-family: ;
-    font-size: ;
+  font-family: Franklin Gothic Book;
+    font-size: 30px;
   font-weight: bold;
-  font-color: ;
+  font-color: purple;
 }
 
 body{
-  font-family: ;
-    font-size: ;
-  font-color: ;
+  font-family: Franklin Gothic Book;
+    font-size: 26px;
+  font-color: lightblue;
 }
 
 footer{
-  font-family: ;
-    font-size: ;
-  font-color: ;
+  font-family: Franklin Gothic Book;
+  font-color: blue;
 }
