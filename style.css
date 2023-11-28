@@ -1,1 +1,42 @@
+p{
+font-family: Franklin Gothic Book;
+  color: lightblue;
+  font-size: 26;
+}
 
+  ul{
+font-famliy: Amasis MT Pro;
+  color: blue;
+  font-size: 20;
+}
+
+    ol{
+    font-famliy: Amasis MT Pro;
+  color: blue;
+  font-size: 20;
+    }
+
+    h1{
+    font-family: ;
+      font-size: ;
+    font-weight: bold;
+    }
+
+header{
+  font-family: ;
+    font-size: ;
+  font-weight: bold;
+  font-color: ;
+}
+
+body{
+  font-family: ;
+    font-size: ;
+  font-color: ;
+}
+
+footer{
+  font-family: ;
+    font-size: ;
+  font-color: ;
+}
